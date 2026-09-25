@@ -1,0 +1,65 @@
+Info: : 1024 mini-second(s) publishing element CapabilityPattern:Planning[Scrum\capabilitypatterns\Planning_A0646773.html]
+Info: CapabilityPattern:Planning: 1024 mini seconds publishing element
+Info: CapabilityPattern:Planning: 56 mini seconds publishing process specific layout data
+Info: Task:create_and_prioritize_the_product_backlog: 6 mini seconds publishing element
+Info: TaskDescriptor:create_and_prioritize_the_product_backlog: 106 mini seconds publishing element
+Info: Role:product_owner: 25 mini seconds publishing element
+Info: RoleDescriptor:product_owner: 92 mini seconds publishing element
+Info: Artifact:product_backlog: 11 mini seconds publishing element
+Info: WorkProductDescriptor:product_backlog: 120 mini seconds publishing element
+Info: CapabilityPattern:Execution: 244 mini seconds publishing element
+Info: CapabilityPattern:Execution: 161 mini seconds publishing process specific layout data
+Info: Task:plan_the_sprint: 5 mini seconds publishing element
+Info: TaskDescriptor:plan_the_sprint: 6 mini seconds publishing element
+Info: Role:developer: 31 mini seconds publishing element
+Info: RoleDescriptor:developer: 7 mini seconds publishing element
+Info: Role:scrum_master: 22 mini seconds publishing element
+Info: RoleDescriptor:scrum_master: 7 mini seconds publishing element
+Info: RoleDescriptor:product_owner: 6 mini seconds publishing element
+Info: Artifact:done_definition: 5 mini seconds publishing element
+Info: WorkProductDescriptor:done_definition: 7 mini seconds publishing element
+Info: WorkProductDescriptor:product_backlog: 6 mini seconds publishing element
+Info: Artifact:sprint_backlog: 11 mini seconds publishing element
+Info: WorkProductDescriptor:sprint_backlog: 7 mini seconds publishing element
+Info: Outcome:sprint_goals: 6 mini seconds publishing element
+Info: WorkProductDescriptor:sprint_goals: 8 mini seconds publishing element
+Info: Task:develop_the_increment: 6 mini seconds publishing element
+Info: TaskDescriptor:develop_the_increment: 5 mini seconds publishing element
+Info: Deliverable:software_increment: 9 mini seconds publishing element
+Info: WorkProductDescriptor:software_increment: 6 mini seconds publishing element
+Info: Task:hold_the_daily_scrum: 5 mini seconds publishing element
+Info: TaskDescriptor:hold_the_daily_scrum: 6 mini seconds publishing element
+Info: CapabilityPattern:Review: 128 mini seconds publishing element
+Info: CapabilityPattern:Review: 48 mini seconds publishing process specific layout data
+Info: Task:review_the_sprint: 5 mini seconds publishing element
+Info: TaskDescriptor:review_the_sprint: 5 mini seconds publishing element
+Info: RoleDescriptor:product_owner: 6 mini seconds publishing element
+Info: WorkProductDescriptor:software_increment: 5 mini seconds publishing element
+Info: WorkProductDescriptor:sprint_goals: 5 mini seconds publishing element
+Info: WorkProductDescriptor:product_backlog: 8 mini seconds publishing element
+Info: CapabilityPattern:Retrospective: 114 mini seconds publishing element
+Info: CapabilityPattern:Retrospective: 82 mini seconds publishing process specific layout data
+Info: Task:conduct_the_retrospective: 6 mini seconds publishing element
+Info: TaskDescriptor:conduct_the_retrospective: 6 mini seconds publishing element
+Info: RoleDescriptor:developer: 7 mini seconds publishing element
+Info: RoleDescriptor:scrum_master: 6 mini seconds publishing element
+Info: WorkProductDescriptor:software_increment: 9 mini seconds publishing element
+Info: WorkProductDescriptor:sprint_backlog: 7 mini seconds publishing element
+Info: DeliveryProcess:Sprint Iteration: 306 mini seconds publishing element
+Info: DeliveryProcess:Sprint Iteration: 203 mini seconds publishing process specific layout data
+Info: TaskDescriptor:create_and_prioritize_the_product_backlog: 5 mini seconds publishing element
+Info: RoleDescriptor:product_owner: 7 mini seconds publishing element
+Info: WorkProductDescriptor:product_backlog: 7 mini seconds publishing element
+Info: TaskDescriptor:plan_the_sprint: 6 mini seconds publishing element
+Info: RoleDescriptor:developer: 12 mini seconds publishing element
+Info: RoleDescriptor:scrum_master: 7 mini seconds publishing element
+Info: WorkProductDescriptor:done_definition: 5 mini seconds publishing element
+Info: WorkProductDescriptor:sprint_backlog: 9 mini seconds publishing element
+Info: WorkProductDescriptor:sprint_goals: 7 mini seconds publishing element
+Info: TaskDescriptor:develop_the_increment: 5 mini seconds publishing element
+Info: WorkProductDescriptor:software_increment: 8 mini seconds publishing element
+Info: TaskDescriptor:hold_the_daily_scrum: 7 mini seconds publishing element
+Info: TaskDescriptor:review_the_sprint: 6 mini seconds publishing element
+Info: TaskDescriptor:conduct_the_retrospective: 7 mini seconds publishing element
+Info: CustomCategory:navigation: 6 mini seconds publishing element
+Info: : Publishing time: 0 minutes 4 seconds
